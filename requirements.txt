@@ -1,0 +1,11 @@
+# Developed on Google Colab.
+# Most of these packages are pre-installed on Colab.
+
+torch
+torchvision
+pandas
+numpy
+matplotlib
+seaborn
+Pillow
+nltk
